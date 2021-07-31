@@ -1,0 +1,5 @@
+ACKNOWLEDGEMENTS-
+
+I hereby present my project "AUTOMATIC GARAGE DOOR OPENER USING IBM IOT PLATFORM'. I would like to thank my team-mates for their cooperation during the work. I would also like to thank my mentor for making the various concepts easy to understand and providing invaluable guidance while completing the Project
+
+Though every care has been taken by us as a team to reduce mistakes and provide a good project as per the requirements, I deeply apologize for any mistakes we may have done.
